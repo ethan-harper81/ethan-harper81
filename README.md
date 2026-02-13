@@ -3,7 +3,7 @@
 Full Stack Engineer @ Lumo Imaging\
 MS Computer Science @ UMass Amherst
 
-##Currently Working On
+## Currently Working On
  - Computer Vision Pipelines in Total Body Photography
  - Designing End to End Medical Grade Image Processing and Storage Ecosystems
  - Novel Dermatorgaphy Viewing Applications
