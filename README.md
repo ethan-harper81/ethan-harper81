@@ -14,7 +14,7 @@ MS Computer Science @ UMass Amherst
 **FrontEnd:** React, Tailwind\
 **Backend:** FastAPI\
 **ML / CV:** PyTorch, OpenCV\
-**DataBases:** MongoDB\
+**DataBases:** MongoDB
 
 ## Graduate Research
  - [Rare Disease Detection](https://github.com/ethan-harper81/Leveraging-FSL-in-Rare-Disease-Detection) - This Project Explores Leveraging Semi Supervised Learning Techniques in Computer Vision Pipelines In the Pursuit of Enhancing Rare Disease Detection for Nuerological Diseases with few reported cases.
