@@ -7,7 +7,7 @@ MS Computer Science @ UMass Amherst
  - Computer Vision Pipelines in Total Body Photography
  - Designing End to End Medical Grade Image Processing and Storage Ecosystems
  - Novel Dermatology Viewing Applications
- - Exploring Applied Macine Learning
+ - Exploring Applied Machine Learning
 
 ## Tech Stack
 **Languages:** Python, TypeScript\
